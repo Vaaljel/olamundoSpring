@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OlamundoSpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OlamundoSpringApplication.class, args);
+        SpringApplication.run(OlamundoSpringApplication.class, args);
 	}
 
 }
