@@ -1,4 +1,4 @@
-package com.example.olamundospring;
+package com.example.olamundospring.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
